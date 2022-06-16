@@ -1,0 +1,20 @@
+{
+  "name": "deploy",
+  "description": "deploy",
+  "keywords": [
+    "deploy"
+  ],
+  "env": {
+    "UUID": {
+      "description": "UUID",
+      "value": "",
+      "required": true
+    }
+  },
+  "website": "https://github.com/skhehdf/adojkl",
+  "repository": "https://github.com/skhehdf/adojkl",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
